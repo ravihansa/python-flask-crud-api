@@ -11,7 +11,7 @@ sudo pip install flask-mysql
 python main.py
 Running on http://127.0.0.1:5000/
 
-#Try bello api calls
+#Try bellow api calls
 http://127.0.0.1:5000/createuser
 {
 	"name": "name",
