@@ -3,15 +3,15 @@
 Flask is a simple, yet very powerful Python web framework.
 This is a simple user registration rest api application.
 
-#need flask
+#need flask...
 sudo pip install flask_table
 sudo pip install flask-mysql
  
-#How to run 
+#How to run...
 python main.py
 Running on http://127.0.0.1:5000/
 
-#Try bellow api calls
+#Try bellow api calls...
 http://127.0.0.1:5000/createuser
 {
 	"name": "name",
